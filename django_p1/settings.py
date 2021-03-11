@@ -26,7 +26,7 @@ SECRET_KEY = '#nht($9mm0*8-%z$hrk0+e3!(akqfod-77q4ozr$3q#n2ivuki'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False #DEBUG = True é o modo de desenvolvimento, DEBUG = False é o modo de produção
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['django-p1-pda.herokuapp.com']
 
 
 # Application definition
